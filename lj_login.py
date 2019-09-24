@@ -49,8 +49,8 @@ execution = pattern.findall(html_content)[0]
 
 # data
 data = {
-    'username': '15600564401',
-    'password': '1wang23li',
+    'username': 'yourusername',
+    'password': 'yourpass',
     'execution': execution,
     '_eventId': 'submit',
     'lt': lt,
